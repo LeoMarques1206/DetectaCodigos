@@ -1,0 +1,7 @@
+ttkbootstrap
+pyautogui
+opencv-python
+pillow
+pyperclip
+pytesseract
+psutil
