@@ -14,7 +14,6 @@ Um aplicativo em Python para detectar e copiar automaticamente **códigos promoc
 - 🔍 Detecção de códigos via **OCR + Regex personalizada**
 - 🎨 Interface com **tema claro/escuro**
 - 📋 Códigos detectados são copiados automaticamente
-- ☕ Botão de apoio integrado com **Buy Me a Coffee**
 
 ---
 
